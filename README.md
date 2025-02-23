@@ -14,7 +14,7 @@ Tech Stack
 Frontend: Flutter
 Deployment: GitHub Pages
 How to Clone and Run Locally
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/btwiamsujal/portfolio.git
 Open the index.html file in your browser to view the portfolio locally.
 
 Contributing
