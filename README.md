@@ -35,7 +35,7 @@ Check out my portfolio live at: **[Click Here](https://portfolio-beige-phi-64.ve
 
 ## 🤝 Contributing
 
-Contributions are welcome! 🚀 If you have ideas to enhance the design or functionality, feel free to fork the repository and submit a pull request with your improvements. Let's build something amazing together! 💡
+Contributions are welcome! 🚀 If you have ideas to enhance the design or functionality, feel free to fork the repository and submit a pull request with your improvements. Let's build something amazing together!💡
 
 ---
 
