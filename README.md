@@ -39,5 +39,5 @@ Contributions are welcome! 🚀 If you have ideas to enhance the design or funct
 
 ---
 
-💬 **Stay Connected:** Feel free to reach out via my portfolio's contact section for any collaborations or inquiries!
+💬 **Stay Connected:** Feel free to reach out via my portfolio's contact section for any collaborations or inquiries!!
 
