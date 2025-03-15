@@ -19,7 +19,7 @@ Check out my portfolio live at: **[Click Here](https://portfolio-beige-phi-64.ve
 
 ## 🛠️ Tech Stack
 
-- **Deployment:** GitHub Pages 🌍
+- **Deployment:** Vercel 🌍
 
 ---
 
