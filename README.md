@@ -4,7 +4,7 @@ Welcome to my personal portfolio! 🎉 This project is a digital showcase of my 
 
 ## 🌟 Features
 
-- **🧑‍💻 About Me:** Dive into my background, interests, and career aspirations.
+- **🧑‍💻 About Me:** Dive into my background, interests, and career aspirations. 
 - **📂 Projects:** Explore my diverse projects, each with detailed descriptions and links.
 - **💡 Expertise:** A highlight of my technical skills and areas of specialization.
 - **📬 Contact:** An easy-to-use contact form to connect with me for collaborations or queries.
